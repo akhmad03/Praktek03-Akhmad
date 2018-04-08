@@ -9,4 +9,13 @@ public class mobilluarnegeri extends mobil {
         System.out.println("JEPANG......");
     
     }
+
+    public String getNegara() {
+        return negara;
+    }
+
+    public void setNegara(String negara) {
+        this.negara = negara;
+    }
+    
 }
