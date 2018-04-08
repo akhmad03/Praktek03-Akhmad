@@ -10,6 +10,13 @@ public class mobilaksi {
         r.setHarga(5000);
         
         r.cetakInfo();
-    }
+        
+         System.out.print("Merknya \t: ");
+         System.out.println(r.getMerk());
+         System.out.print("Jenisnya \t: ");
+        System.out.println(r.getJenis());
+        System.out.print("Harganya \t: ");
+        System.out.println(r.getHarga());
+        }
     
 }
