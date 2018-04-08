@@ -6,7 +6,7 @@ public class mobilluarnegeri extends mobil {
     private String negara;
     
     void throttle (){
-        System.out.println("JEPANG......");
+        System.out.println("MOBIL NANG MURAH MURAH HAJA");
     
     }
 

@@ -17,6 +17,17 @@ public class mobilaksi {
         System.out.println(r.getJenis());
         System.out.print("Harganya \t: ");
         System.out.println(r.getHarga());
+        
+        mobilluarnegeri kw = new mobilluarnegeri();
+        
+        kw.setMerk("Honda");
+        kw.setJenis("Jazz");
+        kw.setHarga(6000);
+        kw.setNegara("Jepang");
+        kw.cetakInfo();
+        
+        System.out.println("Negara Pembuatnya adalah \t:"+kw.getNegara());
+        kw.throttle();
         }
     
 }
