@@ -3,9 +3,9 @@ package praktek03.akhmad;
 
 
 public class mobil {
-    String merk;
-    String jenis;
-    double harga;
+    private String merk;
+    private String jenis;
+    private double harga;
     
     
     void cetakInfo(){

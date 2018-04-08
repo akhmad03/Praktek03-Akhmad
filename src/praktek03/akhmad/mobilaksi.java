@@ -9,8 +9,6 @@ public class mobilaksi {
         r.jenis="SUV";
         r.harga=1000;
         
-         
-
         r.cetakInfo();
     }
     
