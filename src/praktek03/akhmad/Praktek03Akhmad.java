@@ -5,10 +5,7 @@
  */
 package praktek03.akhmad;
 
-/**
- *
- * @author Mamed
- */
+
 public class Praktek03Akhmad {
 
     /**
